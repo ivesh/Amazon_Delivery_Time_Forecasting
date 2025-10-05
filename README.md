@@ -1,3 +1,7 @@
+# Workflow Steps:
+1. template.py
+2. 
+
 # MLOPS:
 - It refers to the discipline of combining and streamlining machine learning system development(DEV) and machine learning operations(OPS). It involves collaboration between, data scientists, ML Enginneers and IT professionals to automate and optimize the end to end lifecycle of Machine Learning. 
 

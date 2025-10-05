@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 
 REPO_NAME = "Amazon-Delivery_Time_Forecasting_Project"
-AUTHOR_USER_NAME = "entbappy"
+AUTHOR_USER_NAME = "Venkatesh I"
 SRC_REPO = "amazon_delivery_time"
 AUTHOR_EMAIL = "iamvenkatesh14@gmail.com"
 
