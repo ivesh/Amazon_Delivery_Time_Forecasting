@@ -4,7 +4,7 @@ from pathlib import Path
 project_name = "amazon_delivery_time"
 
 list_of_files = [
-
+    ".github/workflows/.gitkeep",
     f"{project_name}/__init__.py",
     f"{project_name}/components/__init__.py",
     f"{project_name}/components/data_ingestion.py",  
