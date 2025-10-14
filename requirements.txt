@@ -27,4 +27,5 @@ setuptools
 mlflow
 python-box
 ensure
+pymongo[srv]==3.6
 -e .
